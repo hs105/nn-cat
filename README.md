@@ -27,6 +27,7 @@ Based on the result, use
 ```
 Do "conda list" again, you should have all the required packages installed. 
 
+# Setup Pycharm working environment
 I used pycharm as python editor. 
 
 * Open the working directory of this project using pycharm, set the project interpreter to use the conda environment we've just created. 
