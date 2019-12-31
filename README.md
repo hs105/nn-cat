@@ -21,10 +21,18 @@ If not, the pip command may be linked to the global system pip. Try using
 ```
 which pip
 ```
-, then 
+Based on the result, use 
 ```
 /Users/dongcui/opt/anaconda3/envs/tf1.15/bin/pip install -e .
 ```
+Do "conda list" again, you should have all the required packages installed. 
+
+I used pycharm as python editor. 
+
+* Open the working directory of this project using pycharm, set the project interpreter to use the conda environment we've just created. 
+* Choose "Conda environment", "Existing environment", and locate the python interpreter in the directory of the conda environment.  
+
+
 
 
 
