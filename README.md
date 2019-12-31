@@ -1,6 +1,6 @@
 # nn-cat
 
-#required packages
+# required packages
 * python 3.7
 * tensorflow 2.0
 * gym 0.15.4
