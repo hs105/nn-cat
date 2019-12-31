@@ -20,8 +20,8 @@ conda list
 If not, the pip command may be linked to the global system pip. Try using 
 ```
 which pip
-```,
-Then 
+```
+, then 
 ```
 /Users/dongcui/opt/anaconda3/envs/tf1.15/bin/pip install -e .
 ```
